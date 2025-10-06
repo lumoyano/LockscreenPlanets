@@ -12,6 +12,8 @@ I used Kotlin's Jetpack Compose, which was the redeeming aspect of this whole th
 official Android website, a great crash course to Composable items, the backbone of Jetpack. Getting Android Studio setup was a tricky task because mine was way outdated and SDKs get specific
 when using Jetpack AND canvas animations and took easily over 3 hours of the project.
 
+By default, the project uses Gradle build
+
 # Useful Websites
 
 Here were my best references for the app development, my LLM of choice were mostly ChatGPT and some Gemini
