@@ -28,4 +28,3 @@ It was clear in the video that I fell short of my goals, especially because the 
 - Create and store Canvas elements as individual class objects
 - Fix selection menus to keep them from applying changes to elements upon selection
 - Align position of elements with current system time
-- Fullscreen view if not background option to see the animation
